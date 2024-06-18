@@ -53,7 +53,7 @@ LLMs are built by using supervised learning to repeatedly predict next word.
 
 6. **Tabular Data**
 
-7. ******内容不可追溯：** LLM 生成的内容往往缺乏明确的信息来源，影响内容的可信度
+7. **内容不可追溯：** LLM 生成的内容往往缺乏明确的信息来源，影响内容的可信度
 
 8. **领域专业知识能力欠缺：** LLM 特定领域的专业知识较少，效果不好
 
@@ -64,6 +64,9 @@ LLMs are built by using supervised learning to repeatedly predict next word.
     
 
 ## 1.3 Lifecycle
+
+   
+![image](https://github.com/YoyoBench/LLM-GenAI-Notes/assets/109169949/e66ee858-5c30-4ab1-968c-9e6ce498aab1)
 
 1. **确定目标**。在进行开发前，我们首先需要确定开发的目标，即要开发的应用的应用场景、目标人群、核心价值。对于个体开发者或小型开发团队而言，一般应先设定最小化目标，从构建一个 MVP（最小可行性产品）开始，逐步进行完善和优化。
 
@@ -81,7 +84,6 @@ LLMs are built by using supervised learning to repeatedly predict next word.
 
 8. **体验优化**。在完成前后端搭建之后，应用就可以上线体验了。接下来就需要进行长期的用户体验跟踪，记录 Bad Case 与用户负反馈，再针对性进行优化即可。
 
-   
 
-   ![image-20240618111552237](C:\Users\YMei\AppData\Roaming\Typora\typora-user-images\image-20240618111552237.png)
+
 
