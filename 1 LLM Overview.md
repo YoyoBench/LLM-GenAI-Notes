@@ -44,6 +44,7 @@ LLMs are built by using supervised learning to repeatedly predict next word.
    - Reduce required memory to store & train models
    - Projects original 32 bit floating point numbers into lower precision spaces, e.g., **BFLOAT16** is a popular choice
    - Quantization Aware Training (**QAT**) learns the quantization scaling factors during the training
+   - Multi-GPU compute: distributed data parallel (**DDP**), fully shared data parallel (**FSDP**)
 
 3. **Hallucinations：** LLM 有时会产生与客观事实不符的信息，导致用户接收到的信息不准确
 
